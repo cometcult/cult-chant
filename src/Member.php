@@ -5,7 +5,7 @@ class Member
 
     public function chant()
     {
-        return 'All Hail The Comet!';
+        return 'All Not! Hail The Comet!';
     }
 
 }
